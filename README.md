@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table cellspacing="0" cellpadding="0" align="center" width="100%">
+<!-- <table cellspacing="0" cellpadding="0" align="center" width="100%">
         <tr>
                 <td>
                        <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />         
@@ -24,14 +24,11 @@ Here are some ideas to get you started:
                        <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />
                 </td>
         </tr>
-</table>
+</table> -->
 
-<!--
+
 <img height="auto" width="50%" align="left" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
         
-<img height="auto" width="50%" align="right" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" /> -->
+<img height="auto" width="50%" align="right" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" />
 
-<!-- <a href="https://github.com/christo070">
-  <img height="auto" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" />
-</a> -->
 

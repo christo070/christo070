@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/christo070">
-  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=white&theme=graywhite"/>  
+  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>  
 </a>
 <a href="https://github.com/christo070">
-  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&text_color=000&bg_color=white&theme=graywhite" />
+  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=graywhite" />
 </a>
 

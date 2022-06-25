@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   Visitor count<br>
   <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+    <img src="https://profile-counter.glitch.me/christo070/count.svg" />
   </a>
 </p>

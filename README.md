@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <table cellspacing="0" cellpadding="0" align="center" width="100%">
-        <tr>
-                <td>
-                       <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />         
-                </td>
-                <td>
+<p>
+                       <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
                        <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />
-                </td>
-        </tr>
-</table> -->
-
+</p>
 <div>
         <img height="auto" width="50%" align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />        
 </div>
@@ -33,7 +26,4 @@ Here are some ideas to get you started:
 <div>
         <img height="auto" width="50%" align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=false&hide_border=false&layout=compact&theme=dark" />
 </div>
-
-[![Christo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=christo070)](https://github.com/anuraghazra/github-readme-stats)
-
 

@@ -39,7 +39,7 @@
 <h2>My Stats</h2>
 
 <p>
-                       <img height="150px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-                       <img height="150px" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christo070&theme=dark&hide_border=true&theme=dark" /><br/>
+                       <img height="140px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+                       <img height="140px" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christo070&theme=dark&hide_border=true&theme=dark" /><br/>
                        <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />
 </p>

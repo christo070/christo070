@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" align="center" width="100%">
         <tr>
                 <td>
                        <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />         

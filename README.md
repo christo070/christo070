@@ -1,4 +1,7 @@
-### Hi there, I'm Christo Sojan <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+<h1 align="center"> Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Christo Sojan </h1>
+<h3 align="center">A passionate Software Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christo070&label=Profile%20views&color=0e75b6&style=flat" alt="christo070" /> </p>
 
 <!--
 **christo070/christo070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

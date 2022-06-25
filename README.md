@@ -36,6 +36,8 @@
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
 
+<h2>My Stats</h2>
+
 <p>
                        <img height="auto" width="49%" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
                        <img height="auto" width="49%" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />

@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/christo070" style="white-space:nowrap;">
-  <img height="auto" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" style="display:inline-block;"/>  
-  <img height="auto" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" style="display:inline-block;"/>
+<a href="https://github.com/christo070">
+  <table>
+    <tr>
+      <td>
+        <img height="auto" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+      </td>
+      <td>
+        <img height="auto" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </a>
 <!-- <a href="https://github.com/christo070">
   <img height="auto" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=false&layout=compact&theme=dark" />

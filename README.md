@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-                       <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-                       <img height="auto" width="auto" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />
+                       <img height="auto" width="50%" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+                       <img height="auto" width="50%" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=true&hide_border=true&layout=compact&theme=dark" />
 </p>
 <div>
         <img height="auto" width="50%" align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />        

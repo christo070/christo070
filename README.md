@@ -25,6 +25,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
+<h2>About Me</h2>
+
 - 🔭 I’m currently working on a Project
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on any decent Project

@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+        <div style="display:inline-block;">
+                        
+        </div>
+        <div style="display:inline-block;">
+                
+        </div>
+</div>
+
 
 <img height="auto" width="50%" align="left" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=christo070&locale=en&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
         

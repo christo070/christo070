@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <div>
         <img height="auto" width="50%" align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christo070&locale=en&hide_title=false&hide_border=false&layout=compact&theme=dark" />
 </div>
-<div>
-        [![Christo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christo070)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Christo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christo070)](https://github.com/anuraghazra/github-readme-stats)
 
 

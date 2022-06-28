@@ -26,10 +26,10 @@
 <!-- Here are some ideas to get you started: -->
 
 <h2>About Me</h2>
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on a Project
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on any decent Project
+- 😄 Pronouns: He/Him <br/>
+- 🔭 I’m currently working on a Project <br/>
+- 🌱 I’m currently learning Javascript <br/>
+- 👯 I’m looking to collaborate on any decent Project <br/>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->

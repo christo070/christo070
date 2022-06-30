@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student and Frontend Developer</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/christo-sojan-89ab76229">
+  <a href="https://www.linkedin.com/in/christo-sojan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/christos070">

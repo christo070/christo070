@@ -1,10 +1,7 @@
 ### Hi there 👋
-<!--
-**christo070/christo070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Restaurant Chatbot
+- 🔭 I’m currently working on Restaurant Chatbot and Multimodal Sentiment Analysis
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...   
 -->
-<!--
-- 😄 Pronouns: He/Him   
-- ⚡ Fun fact: ...   
--->
+
+<abbr title="Hypertext Markup Language"><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="christo-sojan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/christo-sojan?trk=profile-badge">Christo Sojan</a></div></abbr>
 

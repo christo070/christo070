@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Vue JS<br>I'm looking to collaborate on a community of software developers who can create tools that can assist common people without compromising on security and privacy of users.<br>I'm looking for help with GDK.<br>Ask me about anything related to my past projects listed on my website.
+I'm currently working on Vue JS.<br>I'm looking for help with GDK.<br>Ask me about anything related to my past projects listed on my website.
 
 
 ## 🌐 Socials:
